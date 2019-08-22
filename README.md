@@ -1,5 +1,14 @@
 # virtusatest
+
 Number to word
+
+Main class : NumberToWord.java
+
+Test Class : NumberToWordTest.java
+
+Note: Use System input to test the functionality
+
+
 
 -999 = negative nine hundred ninety nine
 
